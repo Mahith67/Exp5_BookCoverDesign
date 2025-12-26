@@ -129,7 +129,7 @@ INCLUDE YOUR PROGRM HERE
 <body>
   <div class="cover">
     <div class="top">
-      <div class="title">ANIME NINJA</div>
+      <div class="title">IKIGAI</div>
       <div class="subtitle">A Journey of Courage & Destiny</div>
     </div>
 
@@ -138,8 +138,8 @@ INCLUDE YOUR PROGRM HERE
     </div>
 
     <div class="bottom">
-      <div class="author">By Jaiakash J</div>
-      <div class="author"> Reg no: 25005912</div>
+      <div class="author">By MAHITH M</div>
+      <div class="author"> Reg no: 25004610</div>
       <div class="tagline">Unleash the power within</div>
     </div>
   </div>
